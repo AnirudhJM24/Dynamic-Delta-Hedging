@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Large regenerable path grids (rebuild with `python run_all.py`)
+output/stock_paths.csv
+output/option_prices.csv
